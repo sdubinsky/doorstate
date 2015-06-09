@@ -2,6 +2,7 @@
 Is my door locked?
 
 You will need:
+
 1. raspberry pi or other computer you can just leave around
 2. cheap webcam
 3. the `phashion` library.
